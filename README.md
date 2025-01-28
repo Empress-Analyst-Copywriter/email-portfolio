@@ -1,13 +1,13 @@
 # email-portfolio
 A portfolio showcasing my expertise in email promotional management and copywriting.
-# **[Your Name] - Email Promotional Management & Copywriting Portfolio**
+# **Nmachi - Email Promotional Management & Copywriting Portfolio**
 
 Welcome to my portfolio! As an expert in **email promotional management** and **copywriting**, I specialize in creating highly engaging, data-driven campaigns that deliver results. Whether you're looking to increase sales, nurture leads, or build meaningful customer relationships, my expertise in crafting compelling emails and managing automation platforms can help achieve your goals.
 
 ---
 
 ## **About Me**
-Hi, I’m [Your Name], a professional email copywriter and promotional strategist with a passion for creating value-packed email campaigns. I bring together creativity and strategy to deliver emails that don’t just look good—they convert.
+Hi, I’m Nmachi, a professional email copywriter and promotional strategist with a passion for creating value-packed email campaigns. I bring together creativity and strategy to deliver emails that don’t just look good—they convert.
 
 ### **Platforms & Tools I Use**
 - **Klaviyo:** Advanced segmentation, automation flows, and A/B testing.
@@ -113,7 +113,7 @@ I’d love to collaborate with you! If you’re ready to take your email campaig
 
 - **Email:** [your-email@example.com](mailto:nmachicopywriter@gmailcom)  
 - **LinkedIn:** [Your LinkedIn Profile]([#](https://www.linkedin.com/in/nmachi-njemanze-81b04a77?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-- **Hire Me on Upwork:** [Upwork Profile]([[#](https://www.upwork.com/freelancers/~010d86ea059a3fde09?mp_source=share)]
+- **Hire Me on Upwork:** [Upwork Profile]([[[#](https://www.upwork.com/freelancers/~010d86ea059a3fde09?mp_source=share)]
 
 ---
 
